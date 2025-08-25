@@ -13,6 +13,8 @@ This project analyzes a dataset of Netflix content using Python. It uncovers ins
 - 🎭 Most Common Genres
 - 📅 Content Added Over Time
 - 🎬 Top Directors
+- 📈 Highest votes in vote Avg Column
+- 📈 Movie that got the highest popularity 
 
 
 
